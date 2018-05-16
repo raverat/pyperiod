@@ -1,0 +1,2 @@
+-r requirements/codestyle.txt
+-r requirements/testing.txt
